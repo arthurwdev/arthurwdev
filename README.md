@@ -6,7 +6,7 @@ I'm Arthur Oliveira, a fullstack software developer based in Vitoria, Brazil.
 * API and microservice driven architecture
 * Node.js
 * DotNet Core
-* MSSQL, Oracle, Elastic Search, MySQL/MariaDB, MontoDB, MongoDB, Redis, PostgreSQL
+* MSSQL, Oracle, Elastic Search, MySQL/MariaDB, MongoDB, Redis, PostgreSQL
 * Firebase
 * Message queues (RabbitMQ)
 * GraphQL
