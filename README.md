@@ -1,5 +1,5 @@
 # Hi There 👋
-I'm Arthur Oliveira, a fullstack software developer based in Vitoria, Brazil.
+I'm Arthur Oliveira, a fullstack software developer based in Vitoria-Brazil.
 
 ## My Skills
 ### Backend development:
