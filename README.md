@@ -1,5 +1,5 @@
 # Hi There 👋
-I'm Arthur Oliveira, a *Full Stack Developer* based in Brazil.
+I'm Arthur Oliveira, a **Full Stack Developer** based in Brazil.
 
 ## Skills
 ### Backend development:
@@ -9,6 +9,7 @@ I'm Arthur Oliveira, a *Full Stack Developer* based in Brazil.
 * MSSQL, Oracle, Elastic Search, MySQL/MariaDB, MongoDB, Redis, PostgreSQL
 * Message queues (RabbitMQ/MassTransit)
 * Google Firebase
+* Bots (Discord/Telegram)
 
 ### Frontend development:
 * Angular (TS)
