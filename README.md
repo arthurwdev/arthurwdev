@@ -1,26 +1,23 @@
 # Hi There 👋
-I'm Arthur Oliveira, a fullstack software developer based in Vitoria-Brazil.
+I'm Arthur Oliveira, a *Full Stack Developer* based in Brazil.
 
-## My Skills
+## Skills
 ### Backend development:
 * API and microservice driven architecture
-* Node.js
 * DotNet Core
+* Node.js / NestJs
 * MSSQL, Oracle, Elastic Search, MySQL/MariaDB, MongoDB, Redis, PostgreSQL
-* Firebase
-* Message queues (RabbitMQ)
-* GraphQL
-* Microsoft Azure, AWS, Google Cloud
+* Message queues (RabbitMQ/MassTransit)
+* Google Firebase
 
 ### Frontend development:
-* Angular + Typescript
-* Boostrap + jQuery
-* HTML5, CSS 3, SCSS, LESS
-
-### Mobile application development:
-* Ionic/Cordova (Android/iOS)
+* Angular (TS)
+* Blazor/Razor (C#)
+* React (JS/TS)
+* HTML5, CSS 3, SASS/SCSS
 
 ### DevOps:
+* Microsoft Azure, AWS, Google Cloud
 * Azure DevOps, Github Actions, Gitlab Pipeline, Bitbucket Pipeline
 * Linux server (Ubuntu, Debian)
 * Docker, Kubernetes
