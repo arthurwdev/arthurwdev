@@ -1,5 +1,5 @@
 # Hi There 👋
-I'm Arthur Oliveira, a **Full Stack Developer** based in Brazil.
+I'm Arthur Oliveira. I'm a **Full Stack Developer** specialized in .NET, Node, Angular and React.
 
 ## Skills
 ### Backend development:
