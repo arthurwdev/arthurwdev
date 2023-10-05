@@ -1,5 +1,5 @@
 # Olá! 👋
-Sou Arthur Oliveira, **Full Stack Developer** especialista em desenvolvimento de aplicações web com stack .NET, Java, Node e Angular.   
+Sou **Full Stack Developer** especialista em desenvolvimento de aplicações web com stack .NET, Java, Node e Angular.   
 
 ## Skills
 ### Backend development:
