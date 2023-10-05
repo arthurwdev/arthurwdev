@@ -1,10 +1,11 @@
 # Hi There 👋
-I'm Arthur Oliveira. I'm a **Full Stack Developer**, specialized in development of web applications using Dotnet, Node, Angular and React.
+I'm Arthur Oliveira. I'm a **Full Stack Developer**, specialized in development of web applications using Dotnet, Java, Node and Angular.
 
 ## Skills
 ### Backend development:
 * API and microservice driven architecture
 * DotNet Core
+* Java / Spring
 * Node.js / NestJs
 * MSSQL, Oracle, Elastic Search, MySQL/MariaDB, MongoDB, Redis, PostgreSQL
 * Message queues (RabbitMQ/MassTransit)
@@ -14,7 +15,6 @@ I'm Arthur Oliveira. I'm a **Full Stack Developer**, specialized in development 
 ### Frontend development:
 * Angular (TS)
 * Blazor/Razor (C#)
-* React (JS/TS)
 * HTML5, CSS 3, SASS/SCSS
 
 ### DevOps:
