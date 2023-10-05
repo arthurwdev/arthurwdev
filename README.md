@@ -1,6 +1,11 @@
 # Olá! 👋
 Sou **Full Stack Developer** especialista em desenvolvimento de aplicações web com stack .NET, Java, Node e Angular.   
 
+[![](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://twitter.com/arthurwdev)
+[![twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/arthurwdev)
+[![PDF CV](https://img.shields.io/badge/Download%20AS%20pdf-EF3939?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=black&labelColor=ec1c24)](https://github.com/arthurwdev/arthurwdev/blob/c2b3fb2cbf785810b4e3813e60ff54fb4c5dae83/resume-arthur-oliveira-pt-br.pdf)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthurwdev)
+
 ## Skills
 ### Backend development:
 * API and microservice driven architecture
