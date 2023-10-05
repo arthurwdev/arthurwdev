@@ -1,5 +1,5 @@
-# Hi There 👋
-I'm Arthur Oliveira. I'm a **Full Stack Developer**, specialized in development of web applications using Dotnet, Java, Node and Angular.
+# Olá! 👋
+Sou Arthur Oliveira, **Full Stack Developer** especialista em desenvolvimento de aplicações web com stack .NET, Java, Node e Angular.   
 
 ## Skills
 ### Backend development:
